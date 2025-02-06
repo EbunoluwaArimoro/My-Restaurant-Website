@@ -1,0 +1,1 @@
+This is a simple website to practice basic css styling
