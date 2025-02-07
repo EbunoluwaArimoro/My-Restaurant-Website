@@ -42,9 +42,26 @@ nav .logo {
 }
 
 ul .order-now a {
-    background-color: grey;
-    color: white;
+    color: black;
     text-decoration: none;
+}
+
+ul .order-now a:hover {
+    color: white;
+}
+
+ul .order-now {
+    background-color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin-top: -8px;
+    font-weight: bold;
+}
+
+ul .order-now:hover {
+    background-color: #e74c3c;
+    color: white;
 }
 
 /*Hero styles*/
